@@ -1,5 +1,5 @@
 # ohh1
-Ruby implementation for solving an ohh1 board
+###Ruby implementation for solving an ohh1 board
 
 Usage: 
   ruby ohh1 [filename]
