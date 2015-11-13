@@ -6,3 +6,4 @@ Usage:
   where filename is the name of the file containing a board to solve
   
 Will emit a colorized solution when run at console. If stdout redirected to a file, color is omitted.
+
